@@ -14,3 +14,4 @@ Codewars pratiklerimde ağırlıklı olarak aşağıdaki dilleri kullanıyorum:
 * **Go**
 * **Python**
 * **Js**
+* **Ruby**
